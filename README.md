@@ -1,0 +1,2 @@
+# Moringa-week-3-IP-prep-
+Moringa_Data_Science_Prep_W3_Independent_Project_2019_07_Christopher_Kimani_Python_nb.ipynb
